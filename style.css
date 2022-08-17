@@ -1,0 +1,218 @@
+.container{
+    width: 1440px;
+    height: 1124px;
+}
+.header{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1335px;
+    padding-top: 44px;
+    margin: 0 auto;
+}
+.btn1{
+    width: 172px;
+    height: 54px;
+    border: 2px solid #5B4DFF;
+    border-radius: 44px;
+    /*left: 1225px; /*1168*/
+}
+.btn1>a{
+    text-decoration: none;
+    color: #5B4DFF;
+    font-family: 'Plus Jakarta Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 140%;
+}
+.content{
+    position: relative;
+    margin: 0 auto;
+    text-align: center;
+    width: 582px;
+    height: 112px;*/
+}
+.content>h1{
+    display: inline;
+    font-family: 'Chillax';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 70px;
+    text-transform: capitalize;
+}
+.content>p{
+    font-family: 'Plus Jakarta Display';
+}
+.colortext{
+    color: #FF6363;
+}
+.btn2{
+    position: absolute;
+    margin-top: 50px;
+    width: 172px;
+    height: 54px;
+    border: 2px solid #5B4DFF;
+    background-color: #5B4DFF;
+    border-radius: 44px;
+    left: 197px; /*50*/
+}
+.btn2>a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Plus Jakarta Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 140%;
+}
+.section{
+    position: relative;
+    width: 1335px;
+    height: 471px;
+    margin: 0 auto;
+    padding-top: 189px;
+}
+.section_content{
+    /*position: relative;*/
+    display: flex;
+    align-items: center;
+}
+.section_logo{
+    padding-left: 17.63px;
+}
+.section>h2{
+    font-family: 'Plus Jakarta Display';
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 140%;
+}
+
+.card{
+    position: absolute;
+    padding-top: 40px;
+    display: flex;
+
+}
+.box{
+    height: 389px;
+    border: 1px solid #E5E8FF;
+    margin: 0 auto;
+    font-size: 60px;
+    text-align: center;
+    padding-top: 30px;
+    background-color: #E5E8FF;
+    border-radius: 14px;
+}
+.card-one{
+    width: 304px;
+
+}
+.card-two{
+    width: 302px;
+    margin-left: 38px;
+}
+.card-three{
+    width: 305px;
+    margin-left: 38px;
+}
+.card-four{
+    width: 308px;
+    margin-left: 38px;
+}
+.frame{
+    /*border: 1px solid red;*/
+    width: 234px;
+    height: 319px;
+    margin: 0 auto;
+    padding-top: 35px;
+}
+
+.pic{
+    margin-top: -35px;
+}
+.frame-pic>h3{
+    font-family: Plus Jakarta Display;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-top: 8px;
+}
+.group{
+    position: absolute;
+    top: -79px;
+    display: flex;
+    width: 1335px;
+    height: 471px;
+    margin: 0 auto;
+    padding-top: 173px;
+}
+.group_logo{
+    margin-top: -50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.group_logo>p{
+    margin-top: 33px;
+    margin-left: 8px;
+    color: #5B5B5B;
+    font-family: 'Plus Jakarta Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+}
+.logo__value{
+    margin-left: 49px;
+}
+.btn3{
+    margin-top: 85px;
+    width: 172px;
+    height: 54px;
+    border: 2px solid #5B4DFF;
+    background-color: #5B4DFF;
+    border-radius: 44px;
+    left: 197px; /*50*/
+}
+.btn3>a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Plus Jakarta Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 140%;
+}
+.footer{
+    position: absolute;
+    top: 1043px;
+    height: 136px;
+    width: 1440px;
+    background-color: #232323;
+}
+.footer-iconss{
+    height: 33px;
+    width: 1345px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+}
+.footer-iconss>p{
+    position: absolute;
+    margin: 0 550px;
+    font-family: 'Mazzard';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 140%;
+    color: rgba(255, 255, 255, 0.2);
+}
+.footer-icons>a{
+    padding-left: 43px;
+}
